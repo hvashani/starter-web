@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Hossein Vashani	hossein.vashani@gmail.com
 
 # THANKS
 
